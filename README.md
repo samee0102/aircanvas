@@ -1,4 +1,4 @@
-Canvas Pro is a real-time hand gesture drawing application built using computer vision. It allows you to draw on the screen using just your fingers and a webcam — no mouse, no keyboard.
+Canvas Pro is a real-time hand gesture drawing application built using computer vision. It allows you to draw on the screen using just your fingers and a webcam  no mouse, no keyboard.
 
 The idea started as a simple experiment to understand hand tracking and real-time video processing, and slowly grew into a fun interactive canvas with smooth drawing, glowing strokes, and an easy color selection system. It feels a bit futuristic, but it is built using simple concepts and lots of experimentation.
 
