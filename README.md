@@ -37,6 +37,9 @@ How to Use
 👉 Press Q to exit the application
 
 Author
+
 Sameena Parvin
+
 Artificial Intelligence & Machine Learning Student
+
 Passionate about building creative tech projects and learning through hands-on experimentation
