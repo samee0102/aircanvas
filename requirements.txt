@@ -1,0 +1,8 @@
+Make sure you have Python 3.10 or above installed.
+
+Install the following libraries before running the project:
+
+pip install opencv-python mediapipe numpy pyautogui playsound
+
+Run the Project by 
+aircanvas.py
