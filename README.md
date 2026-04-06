@@ -12,7 +12,7 @@ Features
 
 ✅ Floating arc color palette for switching colors
 
-✅ Neon glow effect on strokes
+✅ Neon glow effect on strokes.
 
 ✅ Clear canvas option
 
